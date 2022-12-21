@@ -14,12 +14,25 @@
 		color: gray;
 		width: 700px;
 		line-height: 20px;
-		margin-left: 250px;
-		
+		margin-left: 300px;
 		
 		}
+
 		img{
-		margin-left: 250px;
+		margin-left: 300px;
+		}
+
+		ol{
+		margin-left: 300px;
+		background-color: ghostwhite;
+
+
+		}
+
+		.logo{
+		margin-left: 5px;
+
+
 		}
 		 
  
