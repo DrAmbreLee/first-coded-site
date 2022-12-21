@@ -5,6 +5,7 @@
 		color: purple;
 		text-align: center;
 		width: 700px;
+		margin-left: 250px;
 		
 		}
 		
@@ -13,9 +14,13 @@
 		color: gray;
 		width: 700px;
 		line-height: 20px;
-		
+		margin-left: 250px;
 		
 		
 		}
-		
+		img{
+		margin-left: 250px;
+		}
+		 
+ 
 		 
